@@ -16,3 +16,5 @@ Steps:
 11. In `secrets.json`, paste in the access key and secret access key for your Iam User.
 12. Make sure you made your Iam User + Kms key in the correct region for the boto3 Kms client.
 13. Copy the ARN of the Kms key that you just made: `arn:aws:kms:us-east-2:840560325987:key/e13e3762-04c4-4fba-a57f-4c93beb4e935`
+
+Credits: Git project owner vastevenson@
